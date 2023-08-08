@@ -1,9 +1,5 @@
 - 👋 Hello, I’m @framzz
-- 👀 I’m interested in programming, learning new things, graphic design and games;
-- 🌱 I’m currently learning Python :snake:
-- 📫 How to reach me, e-mail: franzmariana81@gmail.com
-
-<!---
-framzz/framzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a passionate Data Engineer with expertise in data ingestion, transformation, and validation;
+- 📖 Some of my skills are Python, Spark, PostgreSQL, Airflow, and AWS tools;
+- 🌱 I’m currently learning more about Cloud Computing and Spark;
+- 📫 E-mail: franzmariana81@gmail.com.
